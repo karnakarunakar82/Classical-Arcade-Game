@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+/* SCORE PANEL SECTION */
+ .score-panel {
+    width: 505px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: white;
+    border: 3px solid #4f67d3;
+    box-shadow: 0 0 1.5px 0 #000;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
